@@ -1,1 +1,3 @@
-# 1920-syt-2ahitm-first-rest-api
+# First REST API
+
+Today we are going to create our first RESTful webservice.
